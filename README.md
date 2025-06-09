@@ -137,9 +137,3 @@ The original material has been reorganized and adapted to fit a 3-day workshop f
 - **Day 3**: Graphical arcade game with advanced features
 
 Each project includes starter code, solutions, and comprehensive documentation to support the learning process. All project files can be found in the "Project" folder within each day's directory.
-
-## 🎥 Teaser
-
-Here's a sneak peek of what you'll be able to build by the end of this book. Get ready to impress! 🌟
-
-![Teaser](./python-space.gif)
