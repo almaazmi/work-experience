@@ -16,6 +16,20 @@ This workshop starts at ground zero, assuming no prior knowledge of Python, and 
 
 This course is organized into a 3-day structure, with each day building on the skills from the previous one:
 
+### Day 0: Getting Started with Git and GitHub
+| 🌟 Title | 📖 Description | 🔗 Link |
+| --- | --- | --- |
+| Setup | Creating a GitHub Account | [Guide](./Day%200/creating-github-account.md) |
+| Basics | Introduction to Git Commands | [Guide](./Day%200/intro-to-git-commands.md) |
+| Practice | First Repository Exercise | [Exercise](./Day%200/first-repository-exercise.md) |
+| Resources | Git Cheatsheets and References | [Resources](./Day%200/Resources/) |
+
+**Day 0 Overview:**
+- Set up a GitHub account for sharing your code
+- Learn essential Git commands for version control
+- Create your first repository and practice basic Git workflows
+- Prepare your development environment for the course
+
 ### Day 1: Python Fundamentals - Text-Based Space Adventure
 | 🌟 Title | 📖 Description | 🔗 Link |
 | --- | --- | --- |
@@ -67,7 +81,12 @@ This book comes with a thrilling science fiction narrative that takes you on an 
 
 ## 🎮 Game Progression
 
-Throughout this 3-day workshop, you'll build increasingly sophisticated games:
+Throughout this workshop, you'll build increasingly sophisticated games:
+
+0. **Day 0: Git Fundamentals** - Learn version control before diving into code
+   - Features: GitHub account setup, basic Git commands, repository management
+   - Concepts: Version control, commits, branches, pull requests
+   - [Get started with the exercise](./Day%200/first-repository-exercise.md)
 
 1. **Day 1: Space Explorer** - A text-based adventure using basic Python concepts
    - Features: Character stats, inventory system, multiple locations, conditional choices
