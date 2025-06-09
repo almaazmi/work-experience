@@ -37,6 +37,11 @@ Your game will put the player in charge of a space station or colony that must g
 5. Inventory management using collections
 6. Random events that affect resources
 
+### Project Files
+All project files are in the Project folder:
+- `cosmic_commander_starter.py` - Use this as your starting point
+- `Cosmic Commander Solution/` - Contains the complete solution for reference
+
 ## Resources
 - Sample code from Chapters 6-10
 - Function templates for common game mechanics

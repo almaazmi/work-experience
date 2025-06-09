@@ -35,6 +35,11 @@ Your game will put the player in the role of an astronaut who must explore a dam
 4. Random events using conditional logic
 5. Win/lose conditions
 
+### Project Files
+All project files are in the Project folder:
+- `space_explorer_starter.py` - Use this as your starting point
+- `Space Explorer Solution/` - Contains the complete solution for reference
+
 ## Resources
 - Sample code from Chapters 1-5
 - Code templates to help you get started

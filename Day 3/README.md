@@ -33,6 +33,12 @@ Your game will feature a player-controlled spaceship that can move and shoot at 
 5. Game states (start screen, gameplay, game over)
 6. Sound effects (optional)
 
+### Project Files
+All project files are in the Project folder:
+- `asteroid_defender_turtle_starter.py` - Use this if implementing with Turtle Graphics
+- `asteroid_defender_pygame_starter.py` - Use this if implementing with PyGame
+- `Asteroid Defender Solution/` - Contains the complete solution for reference
+
 ## Implementation Options:
 You can choose to implement your game using either:
 1. **Turtle Graphics**: A simpler approach using Python's built-in turtle module
